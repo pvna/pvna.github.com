@@ -1,4 +1,4 @@
-pvna.github.com
-===============
+Pavan's Thoughts
+=============================================
 
-Personal homepage
+I am Pavan Kumar Alampalli and this this is my personal landing page on the internet hosted on GitHub.
